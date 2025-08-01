@@ -8,15 +8,13 @@
 
 ---
 
-### 🧑 About me
+###  About me
 
 - 🎯 Apasionado por el desarrollo backend con Java y Spring Boot  
 - 🧠 Actualmente aprendiendo TypeScript, Vite y desarrollo web moderno  
 - 📚 Siempre buscando mejorar mis habilidades y compartir lo que aprendo  
 
 ---
-
-## Tech Stack
 
 ### Languages
 
@@ -54,15 +52,15 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### Featured projects
 
-- 🧾 [Portafolio personal](https://tuusuario.github.io/portafolio) – Sitio web estático con Vite + TypeScript  
-- 💳 [CashCard API](https://github.com/tuusuario/spring-cashcard) – API REST con Spring Boot para manejar tarjetas  
-- 🧠 [Consultas útiles en PL/SQL](https://github.com/tuusuario/plsql-scripts) – Scripts útiles para bases de datos Oracle  
+- [Blogtris](https://github.com/Angelmmc/blogtris-app-ionic) – Offline blog app built with Ionic Vue during my internship.
+- [iot-car](https://github.com/Angelmmc/iot-car-webapp) – Integrated IoT car control project using Arduino and ESP32, with a Flask backend connected to SQL Server, plus web and Flutter mobile frontends for monitoring and control.
+- [smart-assistant](https://github.com/tuusuario/plsql-scripts) – Alexa-like web program for controlling a simulated smart home. 
 
 ---
 
-### 📫 Contact info
+### Contact info
 
 - ✉️ ammcardenas@hotmail.com  
 
@@ -70,7 +68,6 @@
 
 ### ⚡ Quote
 
-> *"El acto más importante que realizamos cada día es decidir no rendirnos."*
+> *"The most important thing we do every day is decide not to give up."*
 
----
 
