@@ -6,6 +6,11 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelmmc&show_icons=true&count_private=true&theme=codeSTACKr"></a>
 </p>
 
+<h4 align="center">Contact info</h4>
+<p align='center'>
+ <a href='mailto:ammcardenas@hotmail.com'>ammcardenas@hotmail.com</a>
+</p>
+
 ---
 
 <details>
@@ -64,12 +69,6 @@
 ---
 
 </details>
-
-### Contact info
-
-- ✉️ ammcardenas@hotmail.com  
-
----
 
 ### ⚡ Quote
 
