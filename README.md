@@ -2,8 +2,8 @@
 <p align="center">IT Engineer | Back-End & Mobile Developer | ERP Solutions | Driving IT Excellence</p>
 
 <!-- GitHub Stats opcional -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelmmc&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelmmc&show_icons=true&count_private=true&theme=codeSTACKr"></a>
 </p>
 
 ---
@@ -15,6 +15,9 @@
 - 📚 Siempre buscando mejorar mis habilidades y compartir lo que aprendo  
 
 ---
+
+<details>
+  <summary>Tech Stack</summary>
 
 ### Languages
 
@@ -49,6 +52,15 @@
 ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Operating Systems
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</details>
 
 ---
 
