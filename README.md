@@ -6,11 +6,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelmmc&show_icons=true&count_private=true&theme=codeSTACKr"></a>
 </p>
 
-<h4 align="center">Contact info</h4>
-<p align='center'>
- <a href='mailto:ammcardenas@hotmail.com'>ammcardenas@hotmail.com</a>
-</p>
-
 ---
 
 <details>
@@ -66,6 +61,14 @@
 - [iot-car](https://github.com/Angelmmc/iot-car-webapp) – Integrated IoT car control project using Arduino and ESP32, with a Flask backend connected to SQL Server, plus web and Flutter mobile frontends for monitoring and control.
 - [smart-assistant](https://github.com/tuusuario/plsql-scripts) – Alexa-like web program for controlling a simulated smart home. 
 
+---
+
+</details>
+
+<details>
+  <summary>Contact info</summary>
+
+- e-mail: ammcardenas@hotmail.com
 ---
 
 </details>
