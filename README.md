@@ -8,14 +8,6 @@
 
 ---
 
-###  About me
-
-- 🎯 Apasionado por el desarrollo backend con Java y Spring Boot  
-- 🧠 Actualmente aprendiendo TypeScript, Vite y desarrollo web moderno  
-- 📚 Siempre buscando mejorar mis habilidades y compartir lo que aprendo  
-
----
-
 <details>
   <summary>Tech Stack</summary>
 
@@ -62,15 +54,16 @@
 
 </details>
 
----
-
-### Featured projects
+<details>
+  <summary>Featured projects</summary>
 
 - [Blogtris](https://github.com/Angelmmc/blogtris-app-ionic) – Offline blog app built with Ionic Vue during my internship.
 - [iot-car](https://github.com/Angelmmc/iot-car-webapp) – Integrated IoT car control project using Arduino and ESP32, with a Flask backend connected to SQL Server, plus web and Flutter mobile frontends for monitoring and control.
 - [smart-assistant](https://github.com/tuusuario/plsql-scripts) – Alexa-like web program for controlling a simulated smart home. 
 
 ---
+
+</details>
 
 ### Contact info
 
