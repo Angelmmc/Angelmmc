@@ -3,7 +3,7 @@
 
 <!-- GitHub Stats opcional -->
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelmmc&show_icons=true&count_private=true&theme=codeSTACKr"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelmmc&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true"></a>
 </p>
 
 ---
