@@ -2,10 +2,11 @@
 <p align="center">IT Engineer | Back-End & Mobile Developer | ERP Solutions | Driving IT Excellence</p>
 
 <!-- GitHub Stats opcional -->
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angelmmc&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true"></a>
-</p>
+<div align="center">
+  
+[![Angel Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmmc&theme=codeSTACKr&include_all_commits=true)]()
 
+</div>
 ---
 
 <details>
