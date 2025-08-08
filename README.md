@@ -7,7 +7,6 @@
 [![Angel Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmmc&theme=codeSTACKr&include_all_commits=true)]()
 
 </div>
----
 
 <details>
   <summary>Tech Stack</summary>
