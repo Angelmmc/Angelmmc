@@ -1,5 +1,4 @@
 <h1 align="center">¡Hello! 👋 I'm Angel Manuel</h1>
-<p align="center">IT Engineer | Back-End & Mobile Developer | ERP Solutions | Driving IT Excellence</p>
 
 <!-- GitHub Stats opcional -->
 <div align="center">
