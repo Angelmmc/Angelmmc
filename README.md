@@ -89,8 +89,3 @@
 
 </details>
 
-### ⚡ Quote
-
-> *"The most important thing we do every day is decide not to give up."*
-
-
