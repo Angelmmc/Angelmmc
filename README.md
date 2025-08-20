@@ -5,6 +5,13 @@
   
 [![Angel Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmmc&theme=codeSTACKr&include_all_commits=true)]()
 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmmc&layout=compact&theme=codeSTACKr)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelmmc&theme=codeSTACKr)
+  
+</div>
+
 </div>
 
 <details>
@@ -57,19 +64,28 @@
 <details>
   <summary>Featured projects</summary>
 
-- [Blogtris](https://github.com/Angelmmc/blogtris-app-ionic) – Offline blog app built with Ionic Vue during my internship.
-- [iot-car](https://github.com/Angelmmc/iot-car-webapp) – Integrated IoT car control project using Arduino and ESP32, with a Flask backend connected to SQL Server, plus web and Flutter mobile frontends for monitoring and control.
-- [smart-assistant](https://github.com/tuusuario/plsql-scripts) – Alexa-like web program for controlling a simulated smart home. 
+###  Featured Projects
 
----
+- **[Blogtris](https://github.com/Angelmmc/blogtris-app-ionic)**  
+   *Offline blog app built with Ionic Vue during my internship.*
+
+- **[IoT Car](https://github.com/Angelmmc/iot-car-webapp)**  
+   *Integrated IoT car control project using Arduino + ESP32, Flask backend with SQL Server, and Flutter + web frontends for monitoring and control.*
+
+- **[Smart Assistant](https://github.com/tuusuario/plsql-scripts)**  
+   *Alexa-like web program for controlling a simulated smart home.*
+
 
 </details>
 
 <details>
   <summary>Contact info</summary>
 
-- e-mail: ammcardenas@hotmail.com
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelmmc/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ammcardenas@hotmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 
 </details>
 
