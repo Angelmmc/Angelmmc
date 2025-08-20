@@ -8,8 +8,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmmc&layout=compact&theme=codeSTACKr)
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelmmc&theme=codeSTACKr)
-  
 </div>
 
 </div>
